@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DOCKER_USERNAME="elavarasanpkn"
-DOCKER_PASSWORD="Hexaware@2710"
+DOCKER_PASSWORD="dckr_pat_OsLqeDXp9lks3KIOuSblhEZZCag"
 DOCKER_REPO="dev"
 DOCKER_TAG="latest"
 
