@@ -1,5 +1,6 @@
 pipeline {
     agent any
+    stages {
     
             
         stage('Change File Permissions') {
@@ -27,3 +28,4 @@ pipeline {
         }
     }
     
+}
