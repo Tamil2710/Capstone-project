@@ -16,7 +16,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Run the build-image.sh script
-                sh './build.sh'
+                sh './build-image.sh'
             }
         }
         
